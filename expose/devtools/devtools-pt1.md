@@ -5,7 +5,7 @@
    expose.js initiated the download of the new file
 
 3. What is its file size?
-   The file size are 11.15MB
+   The file size are 11.7MB
 
 4. How long did it take to download?
    It take 177 ms to download
