@@ -26,7 +26,7 @@
 9.  What will happen at line 11 and why?
    The code cause an error. Because let keyword can only be accessed within the block it is defined in. i was defined in for loop block, so the scope of i is the for loop block. The line 12 is outside the for loop block so i is not defined at line 12.
 
-11. What will happen at line 12 and why?
+10. What will happen at line 12 and why?
    At line 12 it will print length value which is 3. Because the input arguement is [100, 200, 300]. It is an array which has 3 element. The prices.length will return the length of array (how many element are in the array). So the length should have value of 3.
 
 11. What will this function return? 
